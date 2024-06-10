@@ -1,4 +1,3 @@
-[![MasterHead](https://src.n-ix.com/uploads/2023/06/13/42a66e04-88c6-43f4-9b41-5d5ac941508a.png](https://www.simplilearn.com/ice9/free_resources_article_thumb/Use_Cases_for_Cyber_Security.jpg))
 <h1 align="center">Hi 👋, I'm Enes Malik Kalkan</h1>
 <h3 align="center">A passionate app developer from Turkey</h3>
 
