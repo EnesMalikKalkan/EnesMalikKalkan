@@ -21,15 +21,9 @@ jobs:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v3
 
-      # Setup Node.js environment
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
       # Generates the snake
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: EnesMalikKalkan
@@ -43,7 +37,7 @@ jobs:
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@v1.0.0
+        uses: ad-m/github-push-action@v1.0.4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
