@@ -1,4 +1,4 @@
-[![MasterHead][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.n-ix.com%2Fcybersecurity-services-provider%2F&psig=AOvVaw1_1s-4bo5a7Gbv7bq8mEUr&ust=1718112423058000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMi7vduR0YYDFQAAAAAdAAAAABAE)](https://src.n-ix.com/uploads/2023/06/13/42a66e04-88c6-43f4-9b41-5d5ac941508a.png)
+[![MasterHead](https://src.n-ix.com/uploads/2023/06/13/42a66e04-88c6-43f4-9b41-5d5ac941508a.png](https://www.simplilearn.com/ice9/free_resources_article_thumb/Use_Cases_for_Cyber_Security.jpg))
 <h1 align="center">Hi 👋, I'm Enes Malik Kalkan</h1>
 <h3 align="center">A passionate app developer from Turkey</h3>
 
