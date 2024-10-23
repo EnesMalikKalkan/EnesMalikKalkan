@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesmalikkalkan&label=Profile%20views&color=0e75b6&style=flat" alt="enesmalikkalkan" /> </p>
 
-- 🔭 I’m currently working on **Pentest Tools on Kali Linux**
+- 🔭 I’m currently working on **Brain-Computer Interface(BCI) and Signal Processing**
 
 - 📫 How to reach me **enesmalikkalkan@proton.me**
 
