@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Malik Kalkan</h1>
-<h3 align="center">A passionate app developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesmalikkalkan&label=Profile%20views&color=0e75b6&style=flat" alt="enesmalikkalkan" /> </p>
-
-- 🔭 I’m currently working on **Brain-Computer Interface(BCI) and Signal Processing**
 
 - 📫 How to reach me **enesmalikkalkan@proton.me**
 
